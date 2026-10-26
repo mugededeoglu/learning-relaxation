@@ -1,0 +1,4 @@
+model,model,mode,n_features,n_train,n_test,mse,mae,r,r_accuracy,sign_acc_tau,sign_cov,tau_sign,decision_rule,note,eps_gap,eps_method,delta_transform,sample_weights,weight_alpha,n_finite,n_sdp_unbounded,n_lp_unbounded
+gbr,gbr,pairwise,45,99999,10000,0.017865517785867552,0.09807986075785446,0.9625189165653006,0.9892,0.9897392943147314,0.9551,0.01,lp_biased,external test,0.001,constant,none,True,0.3,4940,5060,0
+rf,rf,pairwise,45,99999,10000,0.02254710733980159,0.11132799045744492,0.9644686585484122,0.9946,0.9957072557847346,0.9551,0.01,lp_biased,external test,0.001,constant,none,True,0.3,4940,5060,0
+xgb,xgb,pairwise,45,99999,10000,0.023150031195325167,0.10929153522827043,0.955926363656403,0.9929,0.9943461417652601,0.9551,0.01,lp_biased,external test,0.001,constant,none,True,0.3,4940,5060,0

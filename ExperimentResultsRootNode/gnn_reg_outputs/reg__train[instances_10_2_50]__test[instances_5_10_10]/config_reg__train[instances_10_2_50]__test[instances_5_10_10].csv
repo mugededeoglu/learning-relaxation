@@ -1,0 +1,2 @@
+train_pkl,train_csv,test_pkl,test_csv,cache_dir,output_root,epochs,hidden,layers,dropout,lr,weight_decay,batch_train,batch_eval,epsilon_gap,delta_transform,tau_sign,use_sample_weights,weight_alpha,tol,max_quad_nodes,max_lin_edges_per_constr,max_items_train,max_items_test,train_size_tag,test_size_tag,train_n,train_m_total,test_n,test_m_total,verbose,allow_row_order_fallback
+instances_10_2_50.pkl,instancesobj_10_2_50.csv,instances_5_10_10.pkl,instancesobj_5_10_10.csv,,gnn_reg_outputs,10,64,3,0.1,0.001,1e-05,8,16,0.001,none,0.01,True,0.3,1e-12,-1,-1,-1,-1,,,,,,,True,True

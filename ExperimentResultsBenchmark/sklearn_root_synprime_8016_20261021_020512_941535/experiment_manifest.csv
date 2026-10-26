@@ -1,0 +1,5 @@
+design_id,train_setting,task,input,target
+1,combined_to_combined,classification,64_static_DI,root_LP_vs_SDP_PRIME
+2,combined_to_combined,regression,64_static_DI,root_LP_vs_SDP_PRIME
+3,synthetic_to_combined,classification,64_static_DI,root_LP_vs_SDP_PRIME
+4,synthetic_to_combined,regression,64_static_DI,root_LP_vs_SDP_PRIME

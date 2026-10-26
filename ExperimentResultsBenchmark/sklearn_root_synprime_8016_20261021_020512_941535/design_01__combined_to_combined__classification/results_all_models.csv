@@ -1,0 +1,4 @@
+design_id,train_test,task,input,target,model,n_train,n_test,accuracy,balanced_accuracy,f1_lp,f1_macro,precision_LP,recall_LP,roc_auc,rmse,mae,r2,pearson_r,r_accuracy_paper,r_accuracy_tol,decision_accuracy
+1,Combined→Combined,classification,64_static_DI,root_LP_vs_SDP_PRIME,XGB-C,177,103,0.941747572815534,0.9383141762452107,0.9491525423728814,0.9404853620955316,0.9333333333333333,0.9655172413793104,0.9685823754789271,,,,,,,
+1,Combined→Combined,classification,64_static_DI,root_LP_vs_SDP_PRIME,GBC,177,103,0.9029126213592233,0.903831417624521,0.9122807017543859,0.9017925247902364,0.9285714285714286,0.896551724137931,0.9524904214559387,,,,,,,
+1,Combined→Combined,classification,64_static_DI,root_LP_vs_SDP_PRIME,RFC,177,103,0.8932038834951457,0.89272030651341,0.9043478260869565,0.8917343526039179,0.9122807017543859,0.896551724137931,0.9724137931034482,,,,,,,

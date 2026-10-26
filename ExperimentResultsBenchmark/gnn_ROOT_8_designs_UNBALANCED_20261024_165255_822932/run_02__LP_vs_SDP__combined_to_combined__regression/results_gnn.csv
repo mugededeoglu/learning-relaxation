@@ -1,0 +1,2 @@
+run_id,comparison,train_test,input,task,n_train,n_test,variant,feature_norm,size_in_global,epochs,early_stopping,validation_split,target_probe_filename,uses_probe_features,uses_DI_features,accuracy,balanced_accuracy,f1_macro,r_accuracy_paper,r_accuracy_combined,rmse,mae,pearson_r,decision_accuracy
+2,LP_vs_SDP,Combined→Combined,static_tripartite_graph_only,regression,177,101,perm_inv,True,False,10,False,False,10,False,False,,,,0.8910891089108911,0.8910891089108911,2.63803009202292,1.087286353111267,0.4916179759629338,0.9306930693069307

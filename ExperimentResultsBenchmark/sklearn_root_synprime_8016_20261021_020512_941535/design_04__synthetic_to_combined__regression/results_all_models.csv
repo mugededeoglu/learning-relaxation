@@ -1,0 +1,4 @@
+design_id,train_test,task,input,target,model,n_train,n_test,accuracy,balanced_accuracy,f1_lp,f1_macro,precision_LP,recall_LP,roc_auc,rmse,mae,r2,pearson_r,r_accuracy_paper,r_accuracy_tol,decision_accuracy
+4,Synthetic′→Combined,regression,64_static_DI,root_LP_vs_SDP_PRIME,XGB-R,6069,280,,,,,,,,0.6315478556613828,0.416721410662073,-0.5334806485894883,0.3683492286183608,0.5928571428571429,0.5928571428571429,0.43214285714285716
+4,Synthetic′→Combined,regression,64_static_DI,root_LP_vs_SDP_PRIME,GBR,6069,280,,,,,,,,0.6305055636301441,0.42452433809095635,-0.5284231831308772,0.35862041696750535,0.6678571428571428,0.6678571428571428,0.575
+4,Synthetic′→Combined,regression,64_static_DI,root_LP_vs_SDP_PRIME,RFR,6069,280,,,,,,,,0.6949837361626643,0.4684704072216878,-0.857013466027291,0.3809371561211078,0.6785714285714286,0.6964285714285714,0.6035714285714285

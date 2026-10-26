@@ -1,0 +1,5 @@
+run_id,train_setting,task,input
+1,combined_to_combined,classification,static_tripartite_graph_only
+2,combined_to_combined,regression,static_tripartite_graph_only
+3,synthetic_to_combined,classification,static_tripartite_graph_only
+4,synthetic_to_combined,regression,static_tripartite_graph_only

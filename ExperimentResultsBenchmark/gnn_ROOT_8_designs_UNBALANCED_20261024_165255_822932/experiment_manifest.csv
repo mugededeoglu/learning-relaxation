@@ -1,0 +1,9 @@
+run_id,comparison,train_setting,task
+1,LP_vs_SDP,combined_to_combined,classification
+2,LP_vs_SDP,combined_to_combined,regression
+3,LP_vs_SDP,synthetic_to_combined,classification
+4,LP_vs_SDP,synthetic_to_combined,regression
+5,LP_vs_SDP_PRIME,combined_to_combined,classification
+6,LP_vs_SDP_PRIME,combined_to_combined,regression
+7,LP_vs_SDP_PRIME,synthetic_to_combined,classification
+8,LP_vs_SDP_PRIME,synthetic_to_combined,regression

@@ -1,0 +1,5 @@
+run_id,train_test,input,task,n_train,n_test,variant,feature_norm,size_in_global,epochs,early_stopping,validation_split,target_probe_filename,uses_probe_features,uses_DI_features,accuracy,balanced_accuracy,f1_macro,r_accuracy_paper,r_accuracy_combined,rmse,mae,pearson_r,decision_accuracy
+1,Combined→Combined,static_tripartite_graph_only,classification,177,103,perm_inv,True,False,10,False,False,10,False,False,0.8252427184466019,0.8182161753590325,0.8190866510538641,,,,,,
+2,Combined→Combined,static_tripartite_graph_only,regression,177,103,perm_inv,True,False,10,False,False,10,False,False,,,,0.7669902912621359,0.7669902912621359,0.9854550264781078,0.5938237905502319,0.5358360213187146,0.8058252427184466
+3,Synthetic′→Combined,static_tripartite_graph_only,classification,6069,280,perm_inv,True,False,10,False,False,10,False,False,0.22857142857142856,0.21111669177967518,0.2170265651701103,,,,,,
+4,Synthetic′→Combined,static_tripartite_graph_only,regression,6069,280,perm_inv,True,False,10,False,False,10,False,False,,,,0.5607142857142857,0.5607142857142857,1.1682652069843124e+16,3286063372042240.0,-0.3393140320013173,0.49642857142857144

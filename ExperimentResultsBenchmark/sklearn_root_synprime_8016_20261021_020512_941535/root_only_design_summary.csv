@@ -1,0 +1,5 @@
+design_id,train_test,task,best_model,primary_metric,primary_value
+1,Combined→Combined,classification,XGB-C,accuracy,0.941747572815534
+2,Combined→Combined,regression,GBR,r_accuracy_paper,0.912621359223301
+3,Synthetic′→Combined,classification,GBC,accuracy,0.925
+4,Synthetic′→Combined,regression,RFR,r_accuracy_paper,0.6785714285714286
